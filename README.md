@@ -1,4 +1,4 @@
-<!-- ================== ANIMATED GRADIENT HEADER ================== -->
+<!-- ======================= ANIMATED GRADIENT HEADER ======================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammed%20Jalal%20P&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -10,32 +10,28 @@
 
 <h3>Data Scientist | Analytics Consultant | Mentor</h3>
 
-<!-- ================== TYPING ANIMATION ================== -->
+<!-- ======================= TYPING ANIMATION ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=End-to-End+Machine+Learning+Systems;KPI-Driven+Dashboard+Development;Business+Intelligence+Solutions;Deploying+ML+with+Streamlit;Mentoring+Future+Data+Professionals" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=End-to-End+Machine+Learning+Systems;KPI-Driven+Business+Dashboards;Business+Intelligence+Solutions;Deploying+ML+with+Streamlit;Mentoring+Future+Data+Professionals" />
 </p>
 
-<!-- ================== ABOUT SECTION ================== -->
+<!-- ======================= ABOUT SECTION ======================= -->
 
 <div align="left">
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <p>
-I am a <strong>Data Analyst & Mentor</strong> with hands-on experience in SQL, Power BI, Python, R, and Applied Machine Learning.
-</p>
-
-<p>
-📊 Designed <strong>10+ KPI dashboards</strong><br>
-🎓 Mentored <strong>90+ learners</strong><br>
-🤖 Built & deployed ML models using Streamlit<br>
-📍 Malappuram, Kerala, India
+I'm a <strong>Data Analyst & Mentor</strong> with hands-on experience in SQL, Power BI, Python, R, and Applied Machine Learning.
+From KPI dashboards to deployed ML systems, I build data solutions that drive real business decisions.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-<a href="mailto:jalaaalp@gmail.com"><img src="https://img.shields.io/badge/📧_jalaaalp@gmail.com-1e1e2e?style=for-the-badge" /></a>
+<a href="mailto:jalaaalp@gmail.com">
+<img src="https://img.shields.io/badge/📧_jalaaalp@gmail.com-1e1e2e?style=for-the-badge" />
+</a>
 <img src="https://img.shields.io/badge/📊_Open_to_Consulting-1e1e2e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎓_Mentor-1e1e2e?style=for-the-badge" />
 </p>
@@ -46,7 +42,25 @@ I am a <strong>Data Analyst & Mentor</strong> with hands-on experience in SQL, P
 
 <br clear="all" />
 
+<!-- ======================= SOCIALS ======================= -->
+
+<h3>🌐 Connect With Me</h3>
+
+<p align="left">
+  <a href="https://github.com/Jalaalp">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammedjalalp">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:jalaaalp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+<!-- ======================= SKILLS ======================= -->
 
 ## 🛠️ Skills
 
@@ -62,8 +76,9 @@ I am a <strong>Data Analyst & Mentor</strong> with hands-on experience in SQL, P
 
 <td width="50%" align="center">
 
-<h3>📊 Data & BI</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /><br/>
+<h3>📚 Data & BI</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<br/><br/>
 Power BI • Excel • Tableau • Pandas • NumPy • Plotly
 
 </td>
@@ -89,20 +104,24 @@ Regression • Classification • Feature Engineering • Model Evaluation
 
 ---
 
+<!-- ======================= PROJECTS ======================= -->
+
 ## 🚀 Featured Projects
 
 ### 🔹 Cost Price Prediction – ML Deployment
 - 1000+ records, 9+ features  
 - Linear Regression, Decision Tree, Random Forest  
 - Evaluated using R² & RMSE  
-- Deployed using Streamlit + Plotly  
+- Deployed with Streamlit + Plotly  
 
-### 🔹 Personalized Expense Dashboard – Power BI
-- KPI-driven interactive dashboard  
+### 🔹 Expense Analytics Dashboard – Power BI
+- KPI-based interactive dashboard  
 - Trend & category analysis  
 - Business-ready visualization  
 
 ---
+
+<!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Stats
 
