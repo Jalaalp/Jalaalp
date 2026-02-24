@@ -1,5 +1,4 @@
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+<h1 align="center">
   Hi, I'm <strong>Muhammed Jalal P</strong>
 </h1>
 
@@ -8,18 +7,17 @@
 </h3>
 
 <div align="left">
-  <!-- Right-side kid at computer GIF -->
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <p>
-    I transform raw data into actionable insights and build AI systems that create measurable impact.  
-    From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
-  </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-  </p>
+<p>
+I transform raw data into actionable insights and build AI systems that create measurable impact.  
+From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
+<p>
+<img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -92,9 +90,7 @@ Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Jalaalp">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaalp&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-  </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jalaalp&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -102,5 +98,5 @@ Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" />
 </p>
