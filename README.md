@@ -1,6 +1,6 @@
-<!-- Big GIF at the top -->
+<!-- Coding / AI Banner GIF at the top -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="Coding Animation"/>
 </p>
 
 <h1 align="left">
@@ -9,88 +9,69 @@
 </h1>
 
 <h3 align="center">
-  Artificial Intelligence | Machine Learning | Deep Learning | Generative AI Research | Automation & Agents Research
+  Artificial Intelligence | Machine Learning | Deep Learning | Generative AI Research | Automation & Intelligent Agents
 </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I transform raw data into actionable insights and build AI systems that create measurable impact.  
-    From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
+    I am a passionate Data Scientist, AI Developer, and Researcher who builds intelligent systems that turn data into real‑world solutions. I enjoy working on Machine Learning, Deep Learning, Generative AI, Automation, data analytics, and model deployment.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+    👯 I’m open to collaborating on AI/ML, automation, and data science projects.  
+    📫 Let’s connect on LinkedIn.
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
+  <p>
+    <a href="https://www.linkedin.com/in/muhammedjalalp">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <br clear="all" />
 
 ---
 
-<h3>🌐 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammedjalalp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Skills
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=python,r,html,css,javascript,typescript" />
-</td>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<td width="50%" align="center">
-<h3>📊 Data & BI</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase" />
-<br/><br/>
-Power BI • Excel • Tableau • Pandas • NumPy • Plotly
-</td>
-</tr>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white)
 
-<tr>
-<td width="50%" align="center">
-<h3>🤖 Machine Learning & AI</h3>
-<img src="https://skillicons.dev/icons?i=keras,pytorch,tensorflow,scikit-learn,opencv" />
-<br/>
-Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision • Generative AI • Automation & Agents
-</td>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,gcp" />
-</td>
-</tr>
-</table>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-<p align="center">
-  <b>Some of the projects I am working on or have built:</b>
-</p>
+Here are some areas I’ve worked on or am actively building:
 
-<ul>
-<li>🧠 <b>AI Chatbots:</b> NLP‑based assistants for domain‑specific tasks</li>
-<li>🎨 <b>Generative AI & Image Projects:</b> Art, design, and media generation using AI</li>
-<li>🤖 <b>Automation Agents:</b> AI‑powered workflow automation & agent simulations</li>
-<li>📊 <b>Analytics Dashboards:</b> KPI‑driven dashboards integrating machine learning models</li>
-<li>🔬 <b>Machine Learning Projects:</b> Regression, classification, forecasting, and predictive analytics</li>
-<li>📚 <b>Research Projects:</b> Experiments with LLMs, reinforcement learning, and advanced AI algorithms</li>
-</ul>
+- **AI Chatbots:** NLP‑driven assistants with domain‑specific reasoning  
+- **Generative AI & Image Systems:** Tools that generate art, media, and data using advanced AI  
+- **Automation Agents:** Intelligent pipelines and autonomous workflows  
+- **Analytics Dashboards:** KPI dashboards integrated with ML models  
+- **Machine Learning Models:** Classification, regression, forecasting, and clustering solutions  
+- **Research Experiments:** LLMs, deep generative models, reinforcement learning
 
 ---
 
