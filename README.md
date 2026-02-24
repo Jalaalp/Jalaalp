@@ -1,4 +1,5 @@
-<h1 align="center">
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Muhammed Jalal P</strong>
 </h1>
 
@@ -6,25 +7,20 @@
   Artificial Intelligence | Machine Learning | Deep Learning | Generative AI Research | Automation & Agents Research
 </h3>
 
-<div align="center">
-  <!-- Optional small GIFs for style -->
-  <img align="left" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
-</div>
-
 <div align="left">
+  <!-- Your chosen animation GIF -->
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-<p>
-I transform raw data into actionable insights and build AI systems that create measurable impact.  
-From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
-</p>
+  <p>
+    I transform raw data into actionable insights and build AI systems that create measurable impact.  
+    From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research‑oriented AI applications.
+  </p>
 
-<p>
-<img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_Mentor_90+_Learners-1e1e2e?style=for-the-badge" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+  </p>
 
-<img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -84,26 +80,22 @@ Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision
 </p>
 
 <ul>
-<li>🧠 <b>AI Chatbots:</b> NLP-based assistants for domain-specific tasks</li>
+<li>🧠 <b>AI Chatbots:</b> NLP‑based assistants for domain‑specific tasks</li>
 <li>🎨 <b>Generative AI & Image Projects:</b> Art, design, and media generation using AI</li>
-<li>🤖 <b>Automation Agents:</b> AI-powered workflow automation & agent simulations</li>
-<li>📊 <b>Analytics Dashboards:</b> KPI-driven dashboards integrating machine learning models</li>
+<li>🤖 <b>Automation Agents:</b> AI‑powered workflow automation & agent simulations</li>
+<li>📊 <b>Analytics Dashboards:</b> KPI‑driven dashboards integrating machine learning models</li>
 <li>🔬 <b>Machine Learning Projects:</b> Regression, classification, forecasting, and predictive analytics</li>
 <li>📚 <b>Research Projects:</b> Experiments with LLMs, reinforcement learning, and advanced AI algorithms</li>
 </ul>
 
 ---
 
-## 📊 GitHub Activity & Languages
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Jalaalp&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-
-  <br/><br/>
-
-  <!-- Top Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaalp&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Jalaalp">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaalp&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  </a>
 </p>
 
 ---
@@ -111,5 +103,5 @@ Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" alt="GitHub Contribution Snake" />
 </p>
