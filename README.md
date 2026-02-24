@@ -18,7 +18,7 @@
 
 <p>
 I transform raw data into actionable insights and build AI systems that create measurable impact.  
-From KPI-driven dashboards to machine learning & generative AI solutions, I focus on practical, research-oriented AI applications.
+From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
 </p>
 
 <p>
@@ -76,6 +76,23 @@ Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision
 </tr>
 </table>
 </p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+  <b>Some of the projects I am working on or have built:</b>
+</p>
+
+<ul>
+<li>🧠 <b>AI Chatbots:</b> NLP-based assistants for domain-specific tasks</li>
+<li>🎨 <b>Generative AI & Image Projects:</b> Art, design, and media generation using AI</li>
+<li>🤖 <b>Automation Agents:</b> AI-powered workflow automation & agent simulations</li>
+<li>📊 <b>Analytics Dashboards:</b> KPI-driven dashboards integrating machine learning models</li>
+<li>🔬 <b>Machine Learning Projects:</b> Regression, classification, forecasting, and predictive analytics</li>
+<li>📚 <b>Research Projects:</b> Experiments with LLMs, reinforcement learning, and advanced AI algorithms</li>
+</ul>
 
 ---
 
