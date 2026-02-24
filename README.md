@@ -1,101 +1,163 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Muhammed Jalal P</strong>
+<h1 align="center">
+  👋 Hi, I'm <strong>Muhammed Jalal P</strong>
 </h1>
 
-<h3>Data Scientist | Analytics Consultant | Mentor</h3>
+<h3 align="center">
+  🚀 Data Scientist | Analytics Consultant | AI Mentor
+</h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a Data Analyst & Mentor who loves transforming raw data into actionable business insights.
-    From KPI-driven dashboards to deployed machine learning systems, I build solutions that create measurable impact.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:jalaaalp@gmail.com">
-      <img src="https://img.shields.io/badge/📧_jalaaalp@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/📊_Open_to_Consulting-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎓_Mentoring_90+_Learners-1e1e2e?style=for-the-badge" />
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
+<p align="center">
+  Transforming data into intelligence. Building AI systems that create measurable impact.
+</p>
 
 ---
 
-<h3>🌐 Connect With Me</h3>
+## 🧠 About Me
 
-<p align="left">
-  <a href="https://github.com/Jalaalp">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammedjalalp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+I am a Data Scientist and Mentor passionate about turning raw data into actionable business insights.
+
+From KPI-driven dashboards to deployed machine learning systems, I design scalable AI solutions that solve real-world problems.
+
+- 📊 Advanced Data Analytics & Visualization  
+- 🤖 Machine Learning & Deep Learning Systems  
+- 🧠 NLP & Computer Vision Solutions  
+- 🔮 Generative AI Applications  
+- 🎓 Mentoring Future Data Professionals  
+
+---
+
+# 📍 Contact & Availability
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
   <a href="mailto:jalaaalp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_jalaaalp@gmail.com-1e1e2e?style=for-the-badge" />
   </a>
+  <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Open_to_Data_&_AI_Roles-1e1e2e?style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,c,cpp,js" />
+</p>
+
+---
+
+## 🧠 Artificial Intelligence & Machine Learning
+
+- Machine Learning (Supervised & Unsupervised Learning)
+- Deep Learning (ANN, CNN, RNN, LSTM)
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI (LLMs, Prompt Engineering, AI Apps)
+- Model Deployment & Optimization
+- Feature Engineering & Model Tuning
 
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=python,r,html,css" />
-</td>
-
-<td width="50%" align="center">
-<h3>📊 Data & BI</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-<br/><br/>
-Power BI • Excel • Tableau • Pandas • NumPy • Plotly
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>🤖 Machine Learning</h3>
-Regression • Classification • Feature Engineering • Model Evaluation
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</td>
-</tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+**Libraries & Frameworks:**
+
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Keras  
+- OpenCV  
+- HuggingFace  
+- Matplotlib  
+- Seaborn  
+- Plotly  
+
 ---
 
-## 📊 GitHub Stats
+## 📊 Data Analytics & Business Intelligence
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Jalaalp&theme=dark&hide_border=true" alt="Streak" />
-</div>
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Dashboard Development
+- KPI & Business Metrics Tracking
+- Power BI
+- Data Storytelling
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 Web & Application Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" />
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,bootstrap,tailwind" />
+</p>
+
+- REST API Development  
+- Backend System Design  
+- Frontend Integration  
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 ---
 
-⭐ Turning data into measurable business impact.
+## ☁️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode" />
+</p>
+
+- Jupyter Notebook  
+- MATLAB  
+- Anaconda  
+- Power BI  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jalaalp&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jalaalp&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" width="100%" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- End-to-end Machine Learning Pipelines  
+- Generative AI Applications  
+- Advanced NLP & Computer Vision  
+- Business Intelligence Systems  
+- AI Mentorship & Training  
+
+---
+
+# 💡 Professional Philosophy
+
+> “Data becomes powerful only when transformed into intelligent decisions.”
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
