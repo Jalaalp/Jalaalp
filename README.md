@@ -6,24 +6,18 @@
   Artificial Intelligence | Machine Learning | Deep Learning | Generative AI Research | Automation & Agents Research
 </h3>
 
-<div align="center">
-  <!-- Small left/right animations preserved -->
-  <img align="left" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
-</div>
-
 <div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <p>
+    I transform raw data into actionable insights and build AI systems that create measurable impact.  
+    From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
+  </p>
 
-<p>
-I transform raw data into actionable insights and build AI systems that create measurable impact.  
-From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+  </p>
 
-<p>
-<img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
