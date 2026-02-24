@@ -1,106 +1,126 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+# 👋 Hi, I'm Muhammed Jalal P  
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Jalal</strong>
-</h1>
-
-<h3>Data Scientist | Analytics Consultant | Mentor</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I help businesses make smarter decisions using data.
-    As a Data Scientist and Analytics Consultant, I transform raw data into meaningful insights,
-    predictive models, and strategic dashboards that drive measurable impact.
-  </p>
-
-  <p>
-    As a Mentor, I guide aspiring data professionals with practical,
-    industry-oriented learning focused on real-world problem solving.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/📊_Open_to_Consulting-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎓_Data_Science_Mentor-1e1e2e?style=for-the-badge" />
-  </p>
-</div>
-
-<br clear="all" />
+### Data Scientist | Analytics Consultant | Mentor  
+📍 Malappuram, Kerala, India  
+📧 jalaaalp@gmail.com  
 
 ---
 
-## 🛠️ Technical Expertise
+## 🚀 About Me
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming & Databases</h3>
+I am a **Data Analyst & Mentor** with hands-on experience in SQL, Excel, Power BI, Python, and Applied Machine Learning.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
-<br/><br/>
+I specialize in transforming raw datasets into meaningful business insights, designing KPI-driven dashboards, and building end-to-end machine learning solutions.
 
-</td>
+With real industry and mentoring experience, I focus on:
 
-<td width="50%" align="center">
-<h3>📚 Data Science & ML</h3>
-
-Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
-Machine Learning • Statistics • Model Optimization  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>📊 Business Intelligence</h3>
-
-Power BI • Tableau • Excel  
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
-
-Git • VS Code • Jupyter Notebook  
-
-</td>
-</tr>
-</table>
-</p>
+- 📊 Business-focused data analysis  
+- 📈 Interactive dashboard development  
+- 🤖 End-to-end ML model building & deployment  
+- 🎓 Mentoring aspiring data professionals  
 
 ---
 
-## 🎯 What I Do
+## 💼 Professional Experience
 
-✔ Data Cleaning & Feature Engineering  
-✔ Exploratory Data Analysis (EDA)  
+### 🏢 Data Analyst & Mentor – Haris and Co (HACA)  
+*Calicut, Kerala | Oct 2025 – Present*
+
+- Designed **10+ interactive dashboards** explaining business KPIs and performance trends  
+- Mentored **40+ learners**, improving SQL querying and data storytelling skills  
+- Increased project completion rate by **30%** through simplified analytics guidance  
+
+---
+
+### 🏢 Data Analyst & Mentor – Techolas Technologies  
+*Calicut, Kerala | Jan 2025 – Oct 2025*
+
+- Trained **50+ students** on real-world analytics workflows  
+- Guided development of **8+ business dashboards**  
+- Improved analytical confidence and job readiness of learners  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Cost Price Prediction – Machine Learning
+
+- Built an end-to-end ML system using **1000+ records and 9+ features**
+- Performed data preprocessing, encoding, scaling & EDA
+- Trained and evaluated:
+  - Linear Regression  
+  - Decision Tree  
+  - Random Forest  
+- Evaluated models using **R² and RMSE**
+- Deployed using **Streamlit** with real-time predictions and interactive Plotly visualizations  
+
+---
+
+### 🔹 Personalized Expense Tracking Dashboard – Power BI
+
+- Developed interactive Power BI dashboard
+- Designed KPI metrics and trend analysis
+- Performed data cleaning, transformation, and modeling
+- Enabled clear financial tracking and spending insights  
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Querying
+Python • SQL • R • HTML • CSS  
+
+### 📊 Analytics & Visualization
+Excel • Power BI • Tableau  
+Pandas • NumPy • Matplotlib • Plotly  
+
+### 🧠 Machine Learning
+Regression • Classification • Feature Engineering  
+Model Evaluation • Predictive Analytics  
+
+### 🌐 Deployment & Web
+Streamlit • HTML • CSS  
+
+### 💾 Databases
+MySQL • PostgreSQL • SQLite  
+
+### 🔧 Tools
+Git • GitHub • Jupyter Notebook • Postman  
+
+---
+
+## 🎓 Education
+
+🎓 Diploma in Artificial Intelligence & Engineering – Learn Logic AI  
+🎓 BA English Language & Literature – University of Calicut  
+
+---
+
+## 📜 Certification
+
+✔ NSDC Certification – AI Data Engineer  
+
+---
+
+## 🎯 Core Strengths
+
+✔ Data Storytelling  
 ✔ Dashboard & KPI Development  
-✔ Predictive Modeling  
-✔ Business Problem Solving  
-✔ Mentorship & Career Guidance  
+✔ End-to-End ML Lifecycle  
+✔ Mentorship & Training  
+✔ Business-Oriented Analytics  
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Let’s Collaborate
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
-</div>
+I’m open to:
 
----
-
-## 🤝 Let’s Work Together
-
-- 📊 Analytics Consulting  
-- 📈 Business Intelligence Solutions  
-- 🎓 Data Science Mentorship  
-- 🏢 Corporate Training  
+- Analytics Consulting Projects  
+- Machine Learning Applications  
+- Corporate Training & Workshops  
+- Mentorship & Career Guidance  
 
 ---
 
-⭐ *"Turning data into decisions."*
+⭐ *"Turning data into measurable business impact."*
