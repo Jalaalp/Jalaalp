@@ -1,4 +1,4 @@
-<!-- Coding / AI Banner GIF at the top -->
+<!-- Top Coding Animation GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="Coding Animation"/>
 </p>
@@ -24,7 +24,7 @@
     📫 Let’s connect on LinkedIn.
   </p>
 
-  <p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/muhammedjalalp">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -35,8 +35,6 @@
 
 <br clear="all" />
 
----
-
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,15 +44,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -67,26 +62,17 @@
 Here are some areas I’ve worked on or am actively building:
 
 - **AI Chatbots:** NLP‑driven assistants with domain‑specific reasoning  
-- **Generative AI & Image Systems:** Tools that generate art, media, and data using advanced AI  
-- **Automation Agents:** Intelligent pipelines and autonomous workflows  
+- **Generative AI & Image Tools:** Creative tools using advanced models  
+- **Automation Agents:** Intelligent pipelines that automate workflows  
 - **Analytics Dashboards:** KPI dashboards integrated with ML models  
-- **Machine Learning Models:** Classification, regression, forecasting, and clustering solutions  
-- **Research Experiments:** LLMs, deep generative models, reinforcement learning
+- **Machine Learning Models:** Regression, classification, forecasting  
+- **Research Projects:** LLMs, reinforcement learning, advanced AI systems
 
 ---
 
-## 📊 GitHub Contribution Graph
+## ⚡ Activity Graph
 
-<p align="center">
-  <a href="https://github.com/Jalaalp">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaalp&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-  </a>
-</p>
+Here’s your dynamic GitHub activity (line/area chart):
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" alt="GitHub Contribution Snake" />
-</p>
+```markdown
+[![⚡Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jalaalp&theme=react-dark&area=true&hide_border=true)](https://github.com/jalaalp)
