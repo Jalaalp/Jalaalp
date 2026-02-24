@@ -1,136 +1,101 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="center">
-  👋 Hi, I'm <strong>Muhammed Jalal P</strong>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Muhammed Jalal P</strong>
 </h1>
 
-<h3 align="center">
-  Data Scientist | Analytics Consultant | Mentor
-</h3>
+<h3>Data Scientist | Analytics Consultant | Mentor</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a Data Analyst & Mentor who loves transforming raw data into actionable business insights.
+    From KPI-driven dashboards to deployed machine learning systems, I build solutions that create measurable impact.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:jalaaalp@gmail.com">
+      <img src="https://img.shields.io/badge/📧_jalaaalp@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/📊_Open_to_Consulting-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_Mentoring_90+_Learners-1e1e2e?style=for-the-badge" />
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Jalaalp&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
 
 ---
 
-## 🧠 About Me
+<h3>🌐 Connect With Me</h3>
 
-I’m a Data Scientist & Analytics Mentor who transforms raw data into actionable business insights.
-
-From KPI-driven dashboards to deployed machine learning systems, I build scalable, impact-driven solutions that solve real-world problems.
-
-- 📊 Data Analytics & Visualization  
-- 🤖 Machine Learning & AI Systems  
-- 🧠 Deep Learning & Predictive Modeling  
-- 📈 Business Intelligence Solutions  
-- 🎓 Mentoring Future Data Professionals  
-
----
-
-## 📍 Contact & Availability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-  <a href="mailto:jalaaalp@gmail.com">
-    <img src="https://img.shields.io/badge/📧_jalaaalp@gmail.com-1e1e2e?style=for-the-badge" />
+<p align="left">
+  <a href="https://github.com/Jalaalp">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Open_to_Data_Roles-1e1e2e?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/muhammedjalalp">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:jalaaalp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🛠️ Technical Skills
-
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,c,cpp,js" />
-</p>
-
-## 📊 Data Science & ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
-- Plotly  
-- OpenCV  
-- Anaconda  
-
----
-
-## 🌐 Web & Full Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,nodejs,bootstrap,tailwind" />
-</p>
-
----
-
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
-
----
-
-## ☁️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,aws,postman,vscode" />
-</p>
-
-- Power BI  
-- Jupyter Notebook  
-- MATLAB  
-
----
-
-# 📊 GitHub Stats
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jalaalp&show_icons=true&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming</h3>
+<img src="https://skillicons.dev/icons?i=python,r,html,css" />
+</td>
+
+<td width="50%" align="center">
+<h3>📊 Data & BI</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<br/><br/>
+Power BI • Excel • Tableau • Pandas • NumPy • Plotly
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🤖 Machine Learning</h3>
+Regression • Classification • Feature Engineering • Model Evaluation
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</td>
+</tr>
+</table>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Jalaalp&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jalaalp&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" width="100%" />
-</p>
-
----
-
-# 🚀 Featured Interests
-
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Business Analytics  
-- Wireless Sensor Networks  
-- Generative AI  
-
----
-
-# 🎯 Current Focus
-
-- Building end-to-end ML pipelines  
-- Creating interactive dashboards  
-- Mentoring aspiring Data Analysts  
-- Exploring Generative AI applications  
-
----
-
-# 💡 Philosophy
-
-> “Data is powerful only when transformed into decisions.”
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider following me!
-</p>
+⭐ Turning data into measurable business impact.
