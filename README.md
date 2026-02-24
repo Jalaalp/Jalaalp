@@ -7,6 +7,7 @@
 </h3>
 
 <div align="center">
+  <!-- Optional small GIFs for style -->
   <img align="left" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
   <img align="right" width="250" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
 </div>
@@ -93,13 +94,17 @@ Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jalaalp&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Jalaalp&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jalaalp&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+
+  <br/><br/>
+
+  <!-- Top Languages Graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaalp&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
