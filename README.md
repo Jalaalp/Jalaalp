@@ -6,6 +6,12 @@
   Artificial Intelligence | Machine Learning | Deep Learning | Generative AI Research | Automation & Agents Research
 </h3>
 
+<div align="center">
+  <!-- Small left/right animations preserved -->
+  <img align="left" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
+</div>
+
 <div align="left">
 
 <p>
