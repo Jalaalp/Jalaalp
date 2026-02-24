@@ -1,126 +1,130 @@
-# 👋 Hi, I'm Muhammed Jalal P  
 
-### Data Scientist | Analytics Consultant | Mentor  
-📍 Malappuram, Kerala, India  
-📧 jalaaalp@gmail.com  
+<!-- 🌑 Dark Gradient Animated Name -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammed%20Jalal%20P&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</h1>
 
----
-
-## 🚀 About Me
-
-I am a **Data Analyst & Mentor** with hands-on experience in SQL, Excel, Power BI, Python, and Applied Machine Learning.
-
-I specialize in transforming raw datasets into meaningful business insights, designing KPI-driven dashboards, and building end-to-end machine learning solutions.
-
-With real industry and mentoring experience, I focus on:
-
-- 📊 Business-focused data analysis  
-- 📈 Interactive dashboard development  
-- 🤖 End-to-end ML model building & deployment  
-- 🎓 Mentoring aspiring data professionals  
+<h3 align="center">Data Scientist | Analytics Consultant | Mentor</h3>
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Data Analyst & Mentor – Haris and Co (HACA)  
-*Calicut, Kerala | Oct 2025 – Present*
-
-- Designed **10+ interactive dashboards** explaining business KPIs and performance trends  
-- Mentored **40+ learners**, improving SQL querying and data storytelling skills  
-- Increased project completion rate by **30%** through simplified analytics guidance  
+<!-- 🧠 AI Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Systems;Designing+KPI-Driven+Dashboards;Deploying+Models+with+Streamlit;Transforming+Data+into+Business+Impact;Mentoring+Future+Data+Professionals" />
+</p>
 
 ---
 
-### 🏢 Data Analyst & Mentor – Techolas Technologies  
-*Calicut, Kerala | Jan 2025 – Oct 2025*
-
-- Trained **50+ students** on real-world analytics workflows  
-- Guided development of **8+ business dashboards**  
-- Improved analytical confidence and job readiness of learners  
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jalaalp&label=Profile%20Views&color=00F5FF&style=flat" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🧠 About Me
 
-### 🔹 Cost Price Prediction – Machine Learning
+🚀 Data Analyst & Mentor with hands-on experience in **SQL, Power BI, Python & Machine Learning**  
+📊 Designed **10+ business dashboards** aligned with KPIs  
+🎓 Mentored **90+ learners** in analytics & ML  
+🤖 Built and deployed ML systems with full lifecycle implementation  
+📍 Based in Kerala, India  
 
-- Built an end-to-end ML system using **1000+ records and 9+ features**
-- Performed data preprocessing, encoding, scaling & EDA
-- Trained and evaluated:
-  - Linear Regression  
-  - Decision Tree  
-  - Random Forest  
-- Evaluated models using **R² and RMSE**
-- Deployed using **Streamlit** with real-time predictions and interactive Plotly visualizations  
+I specialize in:
 
----
-
-### 🔹 Personalized Expense Tracking Dashboard – Power BI
-
-- Developed interactive Power BI dashboard
-- Designed KPI metrics and trend analysis
-- Performed data cleaning, transformation, and modeling
-- Enabled clear financial tracking and spending insights  
+- Business Intelligence & KPI Strategy  
+- End-to-End Machine Learning (Build → Evaluate → Deploy)  
+- Data Storytelling & Insight Communication  
+- Industry-Oriented Mentorship  
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Arsenal
 
-### 💻 Programming & Querying
-Python • SQL • R • HTML • CSS  
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,html,css" />
+</p>
 
-### 📊 Analytics & Visualization
-Excel • Power BI • Tableau  
-Pandas • NumPy • Matplotlib • Plotly  
+### 📊 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
 
-### 🧠 Machine Learning
+### 🤖 Machine Learning & Data
+Pandas • NumPy • Plotly • Scikit-learn  
 Regression • Classification • Feature Engineering  
-Model Evaluation • Predictive Analytics  
 
-### 🌐 Deployment & Web
-Streamlit • HTML • CSS  
-
-### 💾 Databases
-MySQL • PostgreSQL • SQLite  
+### 🌐 Deployment
+Streamlit  
 
 ### 🔧 Tools
-Git • GitHub • Jupyter Notebook • Postman  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🎓 Education
+# 🚀 Featured Projects
 
-🎓 Diploma in Artificial Intelligence & Engineering – Learn Logic AI  
-🎓 BA English Language & Literature – University of Calicut  
+## 🔹 Cost Price Prediction – ML Deployment
+- 1000+ records, 9+ features  
+- Linear Regression, Decision Tree, Random Forest  
+- Evaluated using **R² & RMSE**  
+- Deployed via Streamlit with interactive Plotly visuals  
 
----
-
-## 📜 Certification
-
-✔ NSDC Certification – AI Data Engineer  
-
----
-
-## 🎯 Core Strengths
-
-✔ Data Storytelling  
-✔ Dashboard & KPI Development  
-✔ End-to-End ML Lifecycle  
-✔ Mentorship & Training  
-✔ Business-Oriented Analytics  
+## 🔹 Expense Analytics Dashboard – Power BI
+- KPI-driven interactive dashboard  
+- Spending trend & category insights  
+- Business-ready financial visualization  
 
 ---
 
-## 🤝 Let’s Collaborate
+# 📊 GitHub Analytics
 
-I’m open to:
-
-- Analytics Consulting Projects  
-- Machine Learning Applications  
-- Corporate Training & Workshops  
-- Mentorship & Career Guidance  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jalaalp&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jalaalp&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ *"Turning data into measurable business impact."*
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaalp&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jalaalp/Jalaalp/output/snake.svg" alt="Snake animation" />
+</p>
+
+> ⚠️ Important:  
+> To activate the snake animation, you must create a GitHub Action.  
+> Tell me and I’ll give you the exact workflow file.
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jalaalp&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🤝 Let’s Connect
+
+📧 jalaaalp@gmail.com  
+🔗 https://www.linkedin.com/in/muhammedjalalp  
+📍 Malappuram, Kerala  
+
+---
+
+<p align="center">
+  ⭐ <b>"Turning data into measurable business impact."</b>
+</p>
