@@ -1,4 +1,5 @@
-<h1 align="center">
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Muhammed Jalal P</strong>
 </h1>
 
@@ -7,6 +8,7 @@
 </h3>
 
 <div align="left">
+  <!-- Right-side kid at computer GIF -->
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
   <p>
     I transform raw data into actionable insights and build AI systems that create measurable impact.  
