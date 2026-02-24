@@ -1,6 +1,10 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- Big GIF at the top -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="700"/>
+</p>
 
 <h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Muhammed Jalal P</strong>
 </h1>
 
@@ -9,12 +13,11 @@
 </h3>
 
 <div align="left">
-  <!-- Your chosen animation GIF -->
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
     I transform raw data into actionable insights and build AI systems that create measurable impact.  
-    From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research‑oriented AI applications.
+    From KPI-driven dashboards to machine learning, automation, and generative AI solutions, I focus on practical, research-oriented AI applications.
   </p>
 
   <p>
