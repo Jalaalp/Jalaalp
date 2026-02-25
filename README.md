@@ -76,7 +76,7 @@ Model Deployment • Automation Pipelines • Intelligent Agents
 # 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Powered+Predictive+Systems;Business+Intelligence+Dashboards;Machine+Learning+Deployments;Generative+AI+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=60&section=header&animation=fadeIn" />
 </p>
 
 ---
