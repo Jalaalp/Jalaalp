@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer | Data Scientist | Business Intelligence & Predictive Analytics Specialist
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Scientist;Business+Intelligence+%26+Predictive+Analytics+Specialist" />
 </h3>
 
 ---
@@ -76,7 +76,7 @@ Model Deployment • Automation Pipelines • Intelligent Agents
 # 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Powered+Predictive+Systems;Business+Intelligence+Dashboards;Machine+Learning+Deployments;Generative+AI+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Powered+Predictive+Systems;Business+Intelligence+Dashboards;Machine+Learning+Deployments;Generative+AI+Applications" />
 </p>
 
 ---
@@ -106,11 +106,14 @@ Model Deployment • Automation Pipelines • Intelligent Agents
 # 🎯 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Advanced+Generative+AI;Scalable+ML+Deployment;AI+Automation+Agents;Research+Driven+AI+Systems" />
+  <img src="https://img.shields.io/badge/Advanced%20Generative%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalable%20ML%20Deployment-1F6FEB?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation%20Agents-00BFA6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research%20Driven%20AI-5B2EFF?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-965815f4-16d2-4a16-bf8b-3e5f52c1f4a4.gif" width="280" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-965815f4-16d2-4a16-bf8b-3e5f52c1f4a4.gif" width="260" />
 </p>
 
 ---
