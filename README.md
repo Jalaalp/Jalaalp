@@ -10,18 +10,11 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Scientist;Business+Intelligence+Specialist;Machine+Learning+Researcher;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Business+Intelligence+Specialist;Machine+Learning+Researcher;Building+Intelligent+Systems" />
 </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammedjalalp">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
 ## 🧠 About Me
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -93,7 +86,7 @@ Model Deployment • Automation Pipelines • Intelligent Agents
 ## 🔹 Business Intelligence Performance Dashboard
 - Designed 15+ KPI Power BI dashboard  
 - Automated reporting using SQL & Python  
-- Reduced reporting time significantly  
+- Improved business reporting efficiency  
 
 ---
 
@@ -135,14 +128,3 @@ Model Deployment • Automation Pipelines • Intelligent Agents
 ✨ Scalable ML Deployment  
 ✨ AI Automation Agents  
 ✨ Research-Driven AI Systems  
-
----
-
-# 📫 Let’s Connect
-
-📧 jalaaalp@gmail.com  
-🔗 https://www.linkedin.com/in/muhammedjalalp  
-
----
-
-⭐ If you like AI, ML, or Data Science — let’s build something impactful.
