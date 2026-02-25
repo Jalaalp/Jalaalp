@@ -76,7 +76,7 @@ Model Deployment • Automation Pipelines • Intelligent Agents
 # 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=60&section=header&animation=fadeIn" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897815-3e8a0cbb-7d7b-4e6a-9f15-3d9d70f7f5d4.gif" width="500" />
 </p>
 
 ---
