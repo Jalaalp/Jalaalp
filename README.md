@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer | Data Scientist | Business Intelligence & Predictive Analytics Specialist
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Data+Scientist;Business+Intelligence+%26+Predictive+Analytics+Specialist" />
 </h3>
 
 ---
